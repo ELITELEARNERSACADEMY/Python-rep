@@ -1,7 +1,10 @@
-                                                                                   Elite Learners Academy Team
-                                                                                         Task and solution file name
-                                                                                         
-                                                                                         simple Python Programs 
+                                                Elite Learners Academy Team
+
+                                                 simple Python Programs
+                                                 
+                                                 Task and solution file name
+                                                                  
+                                                  
                                                                                          
 1.Python Program to Check Whether a Given Number is Even or Odd using Recursion
 solution file:  even_or_old.py
@@ -70,4 +73,10 @@ solution file: centimeters_inc_feet.py
 solution file: compute_n+nn+nnn.py
 
 
-Thanks sanfoundry  
+Thanks sanfoundry for the questions
+if you wish to contribute  or have a proposition, we happy to a from you 
+
+contact email:elitelearnersacademy2024@gmail.com
+
+https://www.elitelearnersacademy.com
+© Elite Learners  Academy
