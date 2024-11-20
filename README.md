@@ -76,6 +76,49 @@ solution file: centimeters_inc_feet.py
 solution file: compute_n+nn+nnn.py
 
 
+
+                                                              Python-Programs-on-Math-Functions
+1. Python Program to Find the Roots of a Quadratic Equation
+solution file: Find-the-Roots-of-a-Quadratic-Equation.py
+
+2. Python Program to Find the Area of a Triangle
+solution file: Find-the-Area-of-a-Triangle.py
+
+3. Python Program to Find Simple Interest
+solution file: Find-Simple-Interest.py
+
+4. Python Program to Find Quotient and Remainder of Two Numbers
+solution file: Find-Quotient-and-Remainder-of-Two-Numbers.py
+
+5. Python Program to Find All Pythagorean Triplets in the Range
+solution file: Find-All-Pythagorean-Triplets-in-the-Range.py
+
+6. Python Program to Compute a Polynomial Equation
+solution file:  Compute-a-Polynomial-Equation.py
+
+7. Python Program to Swap Two Numbers without using Third Variable
+solution file: Swap-Two-Numbers-without-using-Third-Variable.py
+
+8. Python Program to Count Set Bits in an Integer
+solution file: Count-Set-Bits-in-an-Integer.py
+
+9. Python Program to Clear the Rightmost Set Bit of a Number
+solution file:  clear-Rightmost-Set-Bit-of-a-Number.py
+
+10. Python Program to Test Collatz Conjecture for a Given Number
+solution file: Test-Collatz-Conjecture-for-a-Given-Number.py
+
+11. Python Program to Find the Gravitational Force between Two Objects
+solution file: Find-the-Gravitational-Force-between-Two-Objects.py
+
+12.  Python Program to Form an Integer that has Number of Digits at 10’s Place &amp; LSD at 1’s Place
+solution file: Form-an-Integer-that-has-Number-of-Digits-at-10s-Place-amp-LSD-at-1s-Place.py
+
+13.  Python Program to Print an Identity Matrix
+solution file:Identity-Matrix.py
+
+
+
 Thanks sanfoundry for the questions
 if you wish to contribute  or have a proposition, we happy to a from you 
 
