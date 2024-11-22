@@ -117,6 +117,25 @@ solution file: Form-an-Integer-that-has-Number-of-Digits-at-10s-Place-amp-LSD-at
 13.  Python Program to Print an Identity Matrix
 solution file:Identity-Matrix.py
 
+                                                                                             Python Programs on Progression Series
+
+1.Python Program to Find Sum of Series 1 + 1/2 + 1/3 + 1/4 + ……. + 1/N
+solution file: Find-Sum-of-Series1.py
+
+2.Python Program to Find the Sum of the Series 1/1!+1/2!+1/3!+…1/N!
+solution file: Find-Sum-of-Series2.py
+
+3.Python Program to Find the Sum of the Series: 1 + x^2/2 + x^3/3 + … x^n/n
+solution file:  Find-Sum-of-Series3.py
+
+4.Program to Read a Number n and Print the Series “1+2+…..+n= “
+solution file: Find-Sum-of-Series4.py
+
+5.Python Program to Find the Sum of Sine Series
+solution file: sinus.py
+
+6.Python Program to Find the Sum of Cosine Series
+solution file: cosinus.py
 
 
 Thanks sanfoundry for the questions
