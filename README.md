@@ -77,7 +77,7 @@ solution file: compute_n+nn+nnn.py
 
 
 
-                                                              Python-Programs-on-Math-Functions
+                                  Python-Programs-on-Math-Functions
 1. Python Program to Find the Roots of a Quadratic Equation
 solution file: Find-the-Roots-of-a-Quadratic-Equation.py
 
@@ -117,7 +117,7 @@ solution file: Form-an-Integer-that-has-Number-of-Digits-at-10s-Place-amp-LSD-at
 13.  Python Program to Print an Identity Matrix
 solution file:Identity-Matrix.py
 
-                                                                                             Python Programs on Progression Series
+                           Python Programs on Progression Series
 
 1.Python Program to Find Sum of Series 1 + 1/2 + 1/3 + 1/4 + ……. + 1/N
 solution file: Find-Sum-of-Series1.py
@@ -138,7 +138,7 @@ solution file: sinus.py
 solution file: cosinus.py
 
 
-                                                                                       Python Programs on File handling
+                              Python Programs on File handling
 
 1. Python Program to Read the Contents of the File
 solution file:Read-the-Contents-of-the-File.py
