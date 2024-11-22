@@ -138,6 +138,46 @@ solution file: sinus.py
 solution file: cosinus.py
 
 
+                                                                                       Python Programs on File handling
+
+1. Python Program to Read the Contents of the File
+solution file:Read-the-Contents-of-the-File.py
+
+2. Python Program to Copy One File to Another File
+solution file: Copy-One-File-to-Another-File.py
+
+3. Python Program to Count the Number of Lines in Text File
+solution file: Count-the-Number-of-Lines-in-Text-File.py
+
+4. Python Program to Count the Number of Blank Spaces in a Text File
+solution file: Count-the-Number-of-Blank-Spaces-in-a-Text-File.py
+
+5. Python Program to Count the Occurrences of a Word in a Text File
+solution file: Program-to-Count-the-Occurrences-of-a-Word-in-a-Text-File.py
+
+6. Python Program to Count the Number of Words in a Text File
+solution file: Count-the-Number-of-Words-in-a-Text-File.py
+
+7. Python Program to Capitalize First Letter of Each Word in a File
+solution file: Capitalize-First-Letter-of-Each-Word-in-a-File.py
+
+8. Python Program to Counts the Number of Times a Letter Appears in the Text File
+solution file: Counts-the-Number-of-Times-a-Letter-Appears-in-the-Text-File.py
+
+9.  Python Program to Extract Numbers from Text File 
+solution file: Extract-Numbers-from-Text-File.py
+
+10. Python Program to Print the Contents of File in Reverse Order
+solution file: Program-to-Print-the-Contents-of-File-in-Reverse-Order.py
+
+11. Python Program to Append the Content of One File to the End of Another File
+solution file: Program-to-Append-the-Content-of-One-File-to-the-End-of-Another-File.py
+
+12. Python Program to Read a String from the User and Append it into a File
+solution file: Program-to-Read-a-String-from-the-User-and-Append-it-into-a-File.py
+
+
+
 Thanks sanfoundry for the questions
 if you wish to contribute  or have a proposition, we happy to a from you 
 
