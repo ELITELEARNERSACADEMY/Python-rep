@@ -179,7 +179,7 @@ solution file: Program-to-Read-a-String-from-the-User-and-Append-it-into-a-File.
 
 
 Thanks sanfoundry for the questions
-if you wish to contribute  or have a proposition, we happy to a from you 
+if you wish to contribute  or have a proposition, we are  happy to hear from you 
 
 contact email:elitelearnersacademy2024@gmail.com
 
