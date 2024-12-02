@@ -176,6 +176,76 @@ solution file: Program-to-Append-the-Content-of-One-File-to-the-End-of-Another-F
 12. Python Program to Read a String from the User and Append it into a File
 solution file: Program-to-Read-a-String-from-the-User-and-Append-it-into-a-File.py
 
+             Python Programming Examples on List
+
+1. Python Program to Find Largest Number in a List
+Solution File:Python-Program-to-Find-Largest-Number-in-a-List.py
+
+2. Python Program to Find Second Largest Number in a List
+Solution File:Python-Program-to-Find-Second-Largest-Number-in-a-List.py
+
+3. Python Program to Print Largest Even and Largest Odd Number in a List
+Solution File:Python-Program-to-Print-Largest-Even-and-Largest-Odd-Number-in-a-List.py
+
+4. Python Program to Split Even and Odd Elements into Two Lists
+Solution File:Python-Program-to-Split-Even-and-Odd-Elements-into-Two-Lists.py
+
+5. Python Program to Find Average of a List
+Solution File:Python-Program-to-Find-Average-of-a-List.py
+
+6. Python Program to Print Sum of Negative Numbers, Positive Even &amp; Odd Numbers in a List
+Solution File: Python-Program-to-Print-Sum-of-Negative-Numbers-Positive-Even-amp-Odd-Numbers-in-a-List.py
+
+7. Python Program to Count Occurrences of Element in List
+Solution File:Python-Program-to-Count-Occurrences-of-Element-in-List.py
+
+8. Python Program to Find the Sum of Elements in a List using Recursion
+Solution File:Python-Program-to-Find-the-Sum-of-Elements-in-a-List-using-Recursion.py
+
+9. Python Program to Find the Length of a List using Recursion
+Solution File: Python-Program-to-Find-the-Length-of-a-List-using-Recursion.py
+
+10. Python Program to Merge Two Lists and Sort it
+Solution File:Python-Program-to-Merge-Two-Lists-and-Sort-it.py
+
+11. Python Program to Remove Duplicates from a List
+Solution File:Remove-Duplicates-from-a-List.py
+
+12. Python Program to Swap the First and Last Element in a List 
+Solution File:Swap-the-First-and-Last-Element-in-a-List.py
+
+13. Python Program to Sort a List According to the Second Element in Sublist
+Solution File:Sort-a-List-According-to-the-Second-Element-in-Sublist.py
+
+14. Python Program to Return the Length of the Longest Word from the List of Words
+Solution File:Return-the-Length-of-the-Longest-Word-from-the-List-of-Words.py
+
+15. Python Program to Find the Number Occurring Odd Number of Times in a List
+Solution File:Find-the-Number-Occurring-Odd-Number-of-Times-in-a-List.py
+
+16. Python Program to Generate Random Numbers from 1 to 20 and Append Them to the List
+Solution File:Generate-Random-Numbers-from-1-to-20-and-Append-Them-to-the-List.py
+
+17. Python Program to Remove the ith Occurrence of the Given Word in a List
+Solution File:Remove-the-ith-Occurrence-of-the-Given-Word-in-a-List.py
+
+18. Python Program to Find the Cumulative Sum of a List
+Solution File:Find-the-Cumulative-Sum-of-a-List.py
+
+19. Python Program to Find the Union of Two Lists
+Solution File:Find-the-Union-of-Two-Lists.py
+
+20. Python Program to Find the Intersection of Two Lists
+Solution File:Find-the-Intersection-of-Two-Lists.py
+
+21. Python Program to Flatten a List without using Recursion
+Solution File:Flatten-a-List-without-using-Recursion.py
+
+22. Python Program to Find the Total Sum of a Nested List Using Recursion
+Solution File:Find-the-Total-Sum-of-a-Nested-List-Using-Recursion.py
+
+23. Python Program to Flatten a Nested List using Recursion
+Solution File:Flatten-a-Nested-List-using-Recursion.py
 
 
 Thanks sanfoundry for the questions
