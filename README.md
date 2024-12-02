@@ -176,7 +176,7 @@ solution file: Program-to-Append-the-Content-of-One-File-to-the-End-of-Another-F
 12. Python Program to Read a String from the User and Append it into a File
 solution file: Program-to-Read-a-String-from-the-User-and-Append-it-into-a-File.py
 
-             Python Programming Examples on List
+                                Python Programming Examples on List
 
 1. Python Program to Find Largest Number in a List
 Solution File:Python-Program-to-Find-Largest-Number-in-a-List.py
@@ -246,6 +246,18 @@ Solution File:Find-the-Total-Sum-of-a-Nested-List-Using-Recursion.py
 
 23. Python Program to Flatten a Nested List using Recursion
 Solution File:Flatten-a-Nested-List-using-Recursion.py
+
+                                                Python Programs on Tuples
+
+1.Python Program to Create a List of Tuples with the First Element as the Number and Second Element as the Square of the Number
+solution file: tuple1.py
+
+2.Python Program to Remove All Tuples in a List Outside the Given Range
+solution file: Remove-All-Tuples-in-a-List-Outside-the-Given-Range.py
+
+3.Python Program to Sort a List of Tuples in Increasing Order by the Last Element in Each Tuple
+solution file: Sort-a-List-of-Tuples-in-Increasing-Order-by-the-Last-Element-in-Each-Tuple.py
+
 
 
 Thanks sanfoundry for the questions
