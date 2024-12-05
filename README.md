@@ -117,6 +117,22 @@ solution file: Form-an-Integer-that-has-Number-of-Digits-at-10s-Place-amp-LSD-at
 13.  Python Program to Print an Identity Matrix
 solution file:Identity-Matrix.py
 
+	
+                                     Factorial  Fibonacci Programs in Python
+
+1.Python Program to Find Fibonacci Numbers using Recursion
+solution file: find_fibonacci_num_recursive.py
+
+2.Python Program to Find the Fibonacci Series Without using Recursion
+solution file:Find-the-Fibonacci-Series-Without-using-Recursion.py
+
+3.Python Program to Find the Factorial of a Number using Recursion
+solution file:Factorial-of-a-Number-using-Recursion.py
+
+4.Python Program to Find the Factorial of a Number Without Recursion
+solution file: Factorial-of-a-Number-Without-Recursion.py   
+
+
                            Python Programs on Progression Series
 
 1.Python Program to Find Sum of Series 1 + 1/2 + 1/3 + 1/4 + ……. + 1/N
