@@ -259,6 +259,43 @@ solution file: Remove-All-Tuples-in-a-List-Outside-the-Given-Range.py
 solution file: Sort-a-List-of-Tuples-in-Increasing-Order-by-the-Last-Element-in-Each-Tuple.py
 
 
+                                               Python Programs on dictionary
+
+1.Python Program to Create Dictionary from an Object
+solution file: Create-Dictionary-from-an-Object.py
+
+2.Python Program to Check if a Key Exists in a Dictionary or Not
+solution file: Check-if-a-Key-Exists-in-a-Dictionary-or-Not.py
+
+3.Python Program to Add a Key-Value Pair to the Dictionary
+solution file: Add-a-Key-Value-Pair-to-the-Dictionary.py
+
+4.Python Program to Find the Sum of All the Items in a Dictionary
+solution file: Find-the-Sum-of-All-the-Items-in-a-Dictionary.py
+
+5.Python Program to Multiply All the Items in a Dictionary
+solution file: Multiply-All-the-Items-in-a-Dictionary.py
+
+6.Python Program to Remove a Key from a Dictionary
+solution file: Remove-a-Key-from-a-Dictionary.py
+
+7.Python Program to Concatenate Two Dictionaries
+solution file: Concatenate-Two-Dictionaries.py
+
+8.Python Program to Map Two Lists into a Dictionary
+solution file: Map-Two-Lists-into-a-Dictionary.py
+
+9.Python Program to Create a Dictionary with Key as First Character and Value as Words Starting with that Character
+solution file: Create-a-Dictionary-with-Key-as-First-Character-and-Value-as-Words-Starting-with-that-Character.py
+
+10.Python Program to Create Dictionary that Contains Number
+solution file: Create-Dictionary-that-Contains-Number.py
+
+11.Python Program to Count the Frequency of Each Word in a String using Dictionary
+solution file: Count-the-Frequency-of-Each-Word-in-a-String-using-Dictionary.py
+
+
+
 
 Thanks sanfoundry for the questions
 if you wish to contribute  or have a proposition, we are  happy to hear from you 
